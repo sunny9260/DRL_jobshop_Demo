@@ -144,4 +144,4 @@ Final Year Student – Computer Science / AI & ML
 
 This project is developed for academic purposes and is free to use for learning and research.
 
-⭐ If you find this useful, consider starring the repository!
+
